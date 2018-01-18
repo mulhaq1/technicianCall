@@ -1,0 +1,8 @@
+{
+  "name": "techniciancall",
+  "app_id": "2f79c59a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
